@@ -32,9 +32,8 @@ function App() {
 
         </div>
         <div className="d-flex justify-content-center">
-          <a className="btn btn-secondary mx-2" target="_blank" href="https://github.com/nftylabs/nft-lists">Github</a>
-          <a className="btn btn-secondary mx-2" target="_blank" href="https://npmjs.com/@nftylabs/nft-lists">NPM</a>
-          <a className="btn btn-secondary mx-2" target="_blank" href="http://nftylabs.io/tokenlist.schema.json">Schema</a>
+          <a className="btn btn-secondary mx-2" target="_blank" href="https://github.com/magnify-cash/nft-lists">Github</a>
+          <a className="btn btn-secondary mx-2" target="_blank" href="https://npmjs.com/@magnify-cash/nft-lists">NPM</a>
         </div>
       </div>
 
